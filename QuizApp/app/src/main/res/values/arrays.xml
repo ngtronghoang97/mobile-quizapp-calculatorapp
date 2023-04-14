@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="questions">
+        <item>What is the capital of Australia?</item>
+        <item>What is the largest ocean?</item>
+        <item>What is the currency of Australia?</item>
+        <item>Who invented the telephone?</item>
+        <item>What is the highest mountain in the world?</item>
+    </string-array>
+
+    <string-array name="answers1">
+        <item>Canberra</item>
+        <item>Melbourne</item>
+        <item>Sydney</item>
+        <item>Washington D.C.</item>
+    </string-array>
+
+    <string-array name="answers2">
+        <item>Atlantic Ocean</item>
+        <item>Indian Ocean</item>
+        <item>Pacific Ocean</item>
+        <item>Arctic Ocean</item>
+    </string-array>
+
+    <string-array name="answers3">
+        <item>AUD</item>
+        <item>USD</item>
+        <item>Yen</item>
+        <item>Ringgit</item>
+    </string-array>
+
+    <string-array name="answers4">
+        <item>Alexander Graham Bell</item>
+        <item>Thomas Edison</item>
+        <item>Nikola Tesla</item>
+        <item>Michael Faraday</item>
+    </string-array>
+
+    <string-array name="answers5">
+        <item>Mount Kilimanjaro</item>
+        <item>Mount Everest</item>
+        <item>Mount Fuji</item>
+        <item>Denali</item>
+    </string-array>
+
+    <integer-array name="correct_answers">
+        <item>0</item>
+        <item>2</item>
+        <item>0</item>
+        <item>0</item>
+        <item>1</item>
+    </integer-array>
+</resources>
